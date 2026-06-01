@@ -9,7 +9,7 @@ export function Hero() {
       className="relative min-h-screen flex items-center justify-center"
     >
       <Image
-        src="/images/hero-img.jpg"
+        src="images/hero-img.webp"
         alt="Hero Image"
         fill
         className="object-cover"
@@ -19,7 +19,7 @@ export function Hero() {
       <div className="relative z-10 mx-auto max-w-4xl px-6 text-center">
         <h1 className="text-4xl font-bold tracking-tight text-secondary-foreground sm:text-5xl md:text-6xl lg:text-7xl text-balance">
           {" R&L "}
-          <span className="text-primary">Servicios Eléctricos, SRL</span>
+          <span className="text-primary">Servicios Eléctricos</span>
         </h1>
         <p className="mt-6 text-lg text-secondary-foreground/80 sm:text-xl max-w-2xl mx-auto leading-relaxed">
           Servicios eléctricos profesionales para propiedades residenciales y

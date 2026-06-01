@@ -28,12 +28,12 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Teléfono",
-    value: "+1 (555) 123-4567",
+    value: "(829) 696-3275 / (829) 783-0274",
   },
   {
     icon: Clock,
     label: "Horario de Atención",
-    value: "Lun-Sab: 9AM-4PM",
+    value: "Personalizado",
   },
 ];
 // FALTA
