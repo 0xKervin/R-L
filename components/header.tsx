@@ -33,7 +33,7 @@ export function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-secondary/95 backdrop-blur-sm">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
         <div className="flex flex-col gap-{-4} ">
-          <Link href="/" className="">
+          <Link href="#home" className="">
             <Image
               src="/white.png"
               alt="Logo"
